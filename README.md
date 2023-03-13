@@ -2,16 +2,16 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushant-14&label=Profile%20views&color=0e75b6&style=flat" alt="sushant-14" /> </p>
+<!-- https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula -->
+<p align="left"> <a href="https://github.com/sushant-14/?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=sushant-14" alt="sushant-14" /></a> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sushant-14" alt="sushant-14" /></a> </p>
+- 🔭 I’m currently working on [Social Media](https://github.com/sushant-14/media_post.git)
 
-- 🔭 I’m currently working on [Super Hero](https://sushant-14.github.io/SuperHero/)
-
-- 🌱 I’m currently learning **Node Js**
+- 🌱 I’m currently learning **React Js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sushant-14](https://github.com/sushant-14)
 
-- 💬 Ask me about **JavaScript,HTML5,CSS3**
+- 💬 Ask me about **JavaScript,HTML5,CSS3,Node JS**
 
 - 📫 How to reach me **sushantprajapati1412@gmail.com**
 
