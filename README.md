@@ -1,37 +1,356 @@
-<h1 align="center">Hi 👋, I'm Sushant Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sushant-14&label=Profile%20views&color=0e75b6&style=flat" alt="sushant-14" /> </p>
-<!-- https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula -->
-<p align="left"> <a href="https://github.com/sushant-14/?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=sushant-14" alt="sushant-14" /></a> </p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,30&text=Sushant%20Kumar&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20|%20Full%20Stack%20Developer%20|%20Laravel%20Developer&descAlignY=58&animation=fadeIn"/>
 
-- 🔭 I’m currently working on [Social Media](https://github.com/sushant-14/media_post.git)
+# Hi 👋 I'm Sushant Kumar
 
-- 🌱 I’m currently learning **React Js**
+### Software Engineer | Full Stack Developer | Laravel | JavaScript | Cloud Applications
 
-- 👨‍💻 All of my projects are available at [https://github.com/sushant-14](https://github.com/sushant-14)
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1200&center=true&vCenter=true&width=850&lines=Software+Engineer+at+Miratech+(Five9);Full+Stack+Developer;Laravel+%7C+JavaScript+%7C+Node.js;Building+Enterprise+Cloud+Applications;Always+Learning+New+Technologies" />
 
-- 💬 Ask me about **JavaScript,HTML5,CSS3,Node JS**
+<p>
 
-- 📫 How to reach me **sushantprajapati1412@gmail.com**
+<img src="https://komarev.com/ghpvc/?username=sushant-14&style=for-the-badge&color=0e75b6"/>
 
-- 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/1OBbld-3TIOtGSMha8j2JkXC1EekeQ0VE/view?usp=drive_link)
+<img src="https://img.shields.io/github/followers/sushant-14?style=for-the-badge"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sushant14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sushant14" height="30" width="40" /></a>
-<a href="https://codesandbox.com/sushant141299" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="sushant141299" height="30" width="40" /></a>
-<a href="https://instagram.com/__s.u.s.h.a.n.t___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__s.u.s.h.a.n.t___" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sushant_14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sushant_14" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sushant14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sushant14" height="30" width="40" /></a>
+<img src="https://img.shields.io/github/stars/sushant-14?style=for-the-badge"/>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sushant-14&show_icons=true&locale=en&layout=compact" alt="sushant-14" /></p>
+---
+# 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sushant-14&show_icons=true&locale=en" alt="sushant-14" /></p>
+```javascript
+const sushant = {
+    role: "Software Engineer",
+    company: "Miratech (Client: Five9)",
+    experience: "3+ Years",
+    location: "India",
+    currentFocus: [
+        "Enterprise Web Applications",
+        "Production Support",
+        "Cloud Applications",
+        "REST APIs",
+        "React.js"
+    ]
+}
+```
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sushant-14&" alt="sushant-14" /></p>
+🚀 Software Engineer with **3+ years** of experience in designing, developing and maintaining enterprise web applications.
 
+💼 Currently working at **Miratech India Pvt. Ltd. (Client: Five9)** building cloud-based contact center solutions.
+
+🌱 Currently learning **React.js** and improving System Design knowledge.
+
+🎯 Interested in Backend Development, Cloud Technologies, Distributed Systems and Scalable Architectures.
+
+⚡ I enjoy debugging production issues as much as building new features.
+
+---
+# 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:sushantprajapati1412@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://linkedin.com/in/sushant14">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/sushant-14">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://www.hackerrank.com/sushant_14">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+
+  <a href="https://leetcode.com/u/sushant14/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+
+  <a href="https://codesandbox.io/u/sushant141299">
+    <img src="https://img.shields.io/badge/CodeSandbox-151515?style=for-the-badge&logo=codesandbox&logoColor=white" />
+  </a>
+</p>
+
+---
+
+# 💻 Tech Stack
+
+### 🚀 Programming Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=php,js,html,css,python,c" />
+</p>
+
+---
+
+### ⚡ Frameworks & Libraries
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=laravel,react,nodejs,express,bootstrap,jquery" />
+</p>
+
+> **Also Experienced With:** Vue.js • AngularJS • CodeIgniter • AJAX • Alpine.js
+
+---
+
+### 🗄️ Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,firebase" />
+</p>
+
+---
+
+### ☁️ Cloud & DevOps
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=gcp,docker,git,github,gitlab,linux" />
+</p>
+
+> **Also:** CI/CD Pipelines • New Relic • Cloudflare • cPanel • Hostinger • InMotion Hosting
+
+---
+
+### 🛠️ Tools & IDEs
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=vscode,postman,github,git,linux" />
+</p>
+
+> **Daily Tools:** Jira • Confluence • SourceTree • Bitbucket • Sentry • Snyk
+
+---
+
+### 🔗 API & Integration
+
+<p align="center">
+
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+
+![SOAP](https://img.shields.io/badge/SOAP_XML-FF6F00?style=for-the-badge)
+
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge)
+
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
+
+![Third Party APIs](https://img.shields.io/badge/Third--Party_APIs-4CAF50?style=for-the-badge)
+
+</p>
+
+---
+
+### 🎯 Core Skills
+
+```text
+✔ Enterprise Web Development
+✔ Full Stack Development
+✔ Production Support
+✔ Root Cause Analysis
+✔ REST / SOAP APIs
+✔ Microservice Integrations
+✔ Bug Investigation
+✔ Security Remediation
+✔ Performance Optimization
+✔ Database Design
+✔ Cloud Applications
+✔ Agile Development
+✔ Technical Documentation
+✔ Deployment & Monitoring
+```
+
+---
+# 💼 Professional Experience
+
+## 🚀 Junior Software Engineer | Miratech India Pvt. Ltd. (Client: Five9)
+
+📅 Dec 2025 – Present
+
+- 🏢 Building enterprise cloud contact center solutions
+- 🔍 Production issue investigation & Root Cause Analysis
+- ⚡ Laravel, JavaScript, MySQL, MongoDB, Redis
+- ☁️ Google Cloud Platform (GCP)
+- 🔗 REST/SOAP API Integrations
+- 📊 Application Monitoring using New Relic
+- 🤝 Agile Development using GitLab, Jira & Confluence
+
+---
+
+## 💻 Software Developer | SmartXaaS LLP
+
+📅 Mar 2024 – Oct 2025
+
+- Developed SaaS platforms:
+  - CPIDroid
+  - ASOeShop
+  - SEOeShop
+- Built REST APIs & Payment Gateway Integrations
+- Developed React.js and Laravel modules
+- Worked on AI-powered SEO/ASO features
+- CI/CD, Cloudflare, Hosting & Production Deployments
+
+---
+
+## 👨‍💻 Software Specialist | Agami Technologies
+
+📅 Apr 2023 – Mar 2024
+
+Projects:
+- Kailtech LIMS
+- Schezy
+- Lead2Cloze
+
+Worked on:
+- Laravel
+- CodeIgniter
+- AngularJS
+- Node.js
+- MongoDB
+- Payment Gateway
+- GST E-Invoice APIs
+
+# 🚀 Featured Projects
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 📱 Social Media Platform
+
+Modern social media application.
+
+**Tech**
+
+Laravel • JavaScript • MySQL
+
+</td>
+
+<td width="50%">
+
+### ☁️ CPIDroid
+
+Campaign management SaaS Platform
+
+Laravel • REST APIs
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### 📈 ASOeShop
+
+AI Powered App Store Optimization Platform
+
+</td>
+
+<td>
+
+### 🔍 SEOeShop
+
+SEO Automation Platform
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### 🏥 Kailtech LIMS
+
+Laboratory Information Management System
+
+</td>
+
+<td>
+
+### 🏫 Schezy
+
+School Management ERP
+
+</td>
+
+</tr>
+
+</table>
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sushant-14&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushant-14&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=sushant-14&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sushant-14&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+# 🏆 Highlights
+
+- 💼 3+ Years of Software Development Experience
+- 🚀 Software Engineer at Miratech (Client: Five9)
+- ☁️ Enterprise Cloud Application Development
+- 🔍 Production Support & Root Cause Analysis
+- 🔗 REST / SOAP API Integration
+- 📦 SaaS Product Development
+- ⚡ Full Stack Development
+- 🎓 MBA in Business Analytics (Pursuing)
+
+# 🎓 Education
+
+🎓 MBA – Business Analytics *(Pursuing)*
+
+SVKM's NMIMS CDOE
+
+2026 – 2028
+
+---
+
+🎓 Bachelor of Technology
+
+Computer Science Engineering
+
+Veer Bahadur Singh Purvanchal University
+
+# 📜 Certifications
+
+- Full Stack Web Development
+- Full Stack Web Development in Node.js
+- Data Analytics & Machine Learning
+- Website Development
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, consider giving a ⭐ to my repositories and let's build something amazing together.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=gradient&customColorList=12,20,24,30"/>
+
+</div>
